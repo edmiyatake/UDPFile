@@ -1,0 +1,64 @@
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer UDPClient
+error: Class names, 'UDPServer,UDPClient', are only accepted if annotation processing is explicitly requested
+1 error
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java UDPClient.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer
+Received: Hello Server!
+java.net.SocketException: Socket closed
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer
+Invalid command: Please re-enter in this format:
+java UDPFileServer <directory>
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer       
+Invalid command: Please re-enter in this format:
+java UDPFileServer <directory>
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer files
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer UDPClient
+error: Class names, 'UDPServer,UDPClient', are only accepted if annotation processing is explicitly requested
+1 error
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java UDPClient.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer
+Received: Hello Server!
+java.net.SocketException: Socket closed
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer
+Invalid command: Please re-enter in this format:
+java UDPFileServer <directory>
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer       
+Invalid command: Please re-enter in this format:
+java UDPFileServer <directory>
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer files
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer UDPClient
+error: Class names, 'UDPServer,UDPClient', are only accepted if annotation processing is explicitly requested
+1 error
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java UDPClient.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer
+Received: Hello Server!
+java.net.SocketException: Socket closed
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer
+Invalid command: Please re-enter in this format:
+java UDPFileServer <directory>
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer       
+Invalid command: Please re-enter in this format:
+java UDPFileServer <directory>
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer files
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer UDPClient
+error: Class names, 'UDPServer,UDPClient', are only accepted if annotation processing is explicitly requested
+1 error
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java UDPClient.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer
+Received: Hello Server!
+java.net.SocketException: Socket closed
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer
+Invalid command: Please re-enter in this format:
+java UDPFileServer <directory>
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> javac UDPServer.java
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer       
+Invalid command: Please re-enter in this format:
+java UDPFileServer <directory>
+PS C:\Users\Edwin Miyatake\Desktop\Work\Java\SWE242\UDPFile> java UDPServer files
