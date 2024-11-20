@@ -65,6 +65,7 @@ public class UDPServer {
                         }
                     } else {
                         sendData = "File not found.".getBytes();
+                        socket.close();
                     }
                 }
                 // logic for exit 
@@ -74,7 +75,7 @@ public class UDPServer {
                     DatagramPacket sendPacket = new DatagramPacket(sendData, sendData.length, clientIpAddress, clientPort);
                     socket.send(sendPacket);
                     System.out.println("Client disconnected.");
-                    continue;
+                    socket.close();
                 } else {
                     // Respond with an error message for unknown commands
                     String errorMessage = "Unknown command. Use 'index', 'get <filename>', or 'exit'.";
